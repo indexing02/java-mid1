@@ -12,5 +12,6 @@ public class RectangleMain {
         //equals()메서드 오버라이딩(동등성 비교 성공)
         System.out.println(rectangle1 == rectangle2);
         System.out.println(rectangle1.equals(rectangle2));
+
     }
 }
